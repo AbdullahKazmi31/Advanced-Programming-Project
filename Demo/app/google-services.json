@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "11105852856",
+    "firebase_url": "https://quickcheckapp.firebaseio.com",
+    "project_id": "quickcheckapp",
+    "storage_bucket": "quickcheckapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11105852856:android:9c0ad13a251466d5",
+        "android_client_info": {
+          "package_name": "com.example.abdullahkazmi.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11105852856-47ne43ekrq8kdmn9ar0vjlpt91qqr6n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFNSxMFNwRUoNEWKtUg2Ysn2V0oPYwWwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
